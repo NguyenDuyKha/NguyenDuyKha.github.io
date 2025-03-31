@@ -12,3 +12,9 @@
     text-overflow: ellipsis; 
     height: 150px;
 }
+
+.properties__card .unit_cover {
+    height: 220px;
+    object-fit: cover;
+    object-position: top;
+}
