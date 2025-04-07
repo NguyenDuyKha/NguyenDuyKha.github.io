@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="dZTsRBPIPH1pa" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+<manifest identifier="HNxTwHE98gH4D" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
 <metadata>
 <schema>ADL SCORM</schema>
-<schemaversion>CAM 1.3</schemaversion>
+<schemaversion>2004 4th Edition</schemaversion>
 <lom:lom>
 <lom:general>
 <lom:title>
-<lom:string>TỔ CHỨC DẠY HỌC TIN HỌC Ở TRƯỜNG THCS</lom:string>
+<lom:string>49.NguyenDuyKha-Nhom7-A7RenLuyenNVSP-Tinhoc6-KNTT-Bai1</lom:string>
 </lom:title>
 </lom:general>
 <lom:educational>
@@ -14,17 +14,13 @@
 <lom:duration>PT1H0M0S</lom:duration>
 </lom:typicalLearningTime>
 </lom:educational>
-<lom:metaMetadata>
-<lom:metadataSchema>LOMv1.0</lom:metadataSchema>
-<lom:metadataSchema>SCORM_CAM_v1.3</lom:metadataSchema>
-</lom:metaMetadata>
 </lom:lom>
 </metadata>
-<organizations default="dZTsRBPIPH1pa_organization">
-<organization identifier="dZTsRBPIPH1pa_organization">
-<title>TỔ CHỨC DẠY HỌC TIN HỌC Ở TRƯỜNG THCS</title>
-<item identifier="B7BA8A88-8022-4D23-8BEF-2940CF411EA5" identifierref="resource">
-<title>Presentation1-26-3</title>
+<organizations default="49.nguyenduykha-nhom7-a7renluyennvsp-tinhoc6-kntt-bai1_organization">
+<organization identifier="49.nguyenduykha-nhom7-a7renluyennvsp-tinhoc6-kntt-bai1_organization">
+<title>49.NguyenDuyKha-Nhom7-A7RenLuyenNVSP-Tinhoc6-KNTT-Bai1</title>
+<item identifier="CD0A396A-F895-4D9C-960E-4A9D04663A95" identifierref="resource">
+<title>NguyenDuyKha-Nhom7-A7RenLuyenNVSP-Tinhoc6-KNTT-Bai1</title>
 <imsss:sequencing>
 <imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/>
 </imsss:sequencing>
@@ -40,20 +36,16 @@
 <file href="res/lms.js"/>
 <file href="res/data/thmb1.png"/>
 <file href="res/data/quiz1.js"/>
-<file href="res/data/quiz1/audios/snd-58de2f271383aaef93cd4e57d483adc69e982e22.mp3"/>
-<file href="res/data/quiz1/audios/snd-de3353bdb728ffd0d88befca0be019d1e62304c2.mp3"/>
+<file href="res/data/quiz1/audios/snd-58b91995751e7708570bffcad3f6b4edea731476.mp3"/>
+<file href="res/data/quiz1/audios/snd-fdab0497c64bd838435c73b6b8f1edcd80b1142e.mp3"/>
 <file href="res/data/quiz1/fonts/fnt0.woff"/>
 <file href="res/data/quiz1/fonts/fnt1.woff"/>
 <file href="res/data/quiz1/fonts/fnt2.woff"/>
 <file href="res/data/quiz1/fonts/fnt3.woff"/>
 <file href="res/data/quiz1/fonts/fnt4.woff"/>
+<file href="res/data/quiz1/fonts/fnt5.woff"/>
+<file href="res/data/quiz1/images/img-c62516ed4f8a4cd3a0ab10bfc3868dffa38cac63.png"/>
 <file href="res/data/quiz1/images/quiz_bg_0.png"/>
-<file href="res/data/thmb2.png"/>
-<file href="res/data/slide2.js"/>
-<file href="res/data/slide2.css"/>
-<file href="res/data/thmb3.png"/>
-<file href="res/data/slide3.js"/>
-<file href="res/data/slide3.css"/>
 <file href="res/data/quizplayer.js"/>
 <file href="res/index.html"/>
 <file href="res/data/player.js"/>
@@ -70,15 +62,12 @@
 <file href="res/data/fnt3.woff"/>
 <file href="res/data/fnt4.woff"/>
 <file href="res/data/fnt5.woff"/>
-<file href="res/data/fnt6.woff"/>
-<file href="res/data/fnt7.woff"/>
 <file href="res/data/html5-unsupported.html"/>
-<file href="res/data/html5.png"/>
 <file href="res/data/img0.png"/>
 <file href="res/data/img1.png"/>
 <file href="res/data/img2.png"/>
 <file href="res/data/img3.png"/>
-<file href="res/data/img4.png"/>
+<file href="res/data/goodbye.html"/>
 </resource>
 </resources>
 </manifest>
